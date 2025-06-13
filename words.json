@@ -1,0 +1,135 @@
+{
+  "vague": {
+    "meaning": "غامض",
+    "synonyms": [
+      "unclear",
+      "fuzzy"
+    ],
+    "example": "His answer was vague."
+  },
+  "fertile": {
+    "meaning": "خصب",
+    "synonyms": [
+      "rich",
+      "productive"
+    ],
+    "example": "This land is very fertile."
+  },
+  "nice": {
+    "meaning": "لطيف، جميل",
+    "synonyms": [
+      "good",
+      "pleasant",
+      "charming"
+    ],
+    "example": "The weather today is so nice, it's perfect for a picnic!"
+  },
+  "way": {
+    "meaning": "طريق، مسار",
+    "synonyms": [
+      "route",
+      "path",
+      "direction"
+    ],
+    "example": "I walked home by a different way today."
+  },
+  "win": {
+    "meaning": "يفوز، انتصار",
+    "synonyms": [
+      "triumph",
+      "succeed",
+      "achieve"
+    ],
+    "example": "Our team hopes to win the championship."
+  },
+  "bad": {
+    "meaning": "سيء، رديء",
+    "synonyms": [
+      "terrible",
+      "awful",
+      "poor"
+    ],
+    "example": "That was a bad movie."
+  },
+  "anyone": {
+    "meaning": "أي شخص",
+    "synonyms": [
+      "anybody",
+      "someone",
+      "somebody"
+    ],
+    "example": "Does anyone know the answer?"
+  },
+  "better": {
+    "meaning": "أفضل",
+    "synonyms": [
+      "superior",
+      "improved",
+      "enhanced"
+    ],
+    "example": "She feels better after resting."
+  },
+  "read": {
+    "meaning": "يقرأ",
+    "synonyms": [
+      "scan",
+      "peruse",
+      "study"
+    ],
+    "example": "I love to read before bed."
+  },
+  "beautiful": {
+    "meaning": "جميل، رائع",
+    "synonyms": [
+      "pretty",
+      "lovely",
+      "gorgeous"
+    ],
+    "example": "The sunset was incredibly beautiful."
+  },
+  "chat": {
+    "meaning": "دردشة، محادثة",
+    "synonyms": [
+      "converse",
+      "talk",
+      "gossip"
+    ],
+    "example": "We had a nice chat over coffee."
+  },
+  "home": {
+    "meaning": "بيت، موطن",
+    "synonyms": [
+      "house",
+      "residence",
+      "dwelling"
+    ],
+    "example": "My home is where my heart is."
+  },
+  "📘 add word": {
+    "meaning": "أضف كلمة",
+    "synonyms": [
+      "إضافة كلمة",
+      "زيادة كلمة",
+      "إلحاق كلمة"
+    ],
+    "example": "Please add the word to the dictionary."
+  },
+  "mean": {
+    "meaning": "يعني",
+    "synonyms": [
+      "intend",
+      "signify",
+      "average"
+    ],
+    "example": "What does this word mean?"
+  },
+  "air": {
+    "meaning": "هواء",
+    "synonyms": [
+      "atmosphere",
+      "breeze",
+      "wind"
+    ],
+    "example": "We need clean air to breathe."
+  }
+}
