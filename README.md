@@ -15,7 +15,7 @@ A Telegram bot designed to help improve English vocabulary through interactive w
 - **JSON**: For storing user-added words locally.
 - **python-dotenv**: For managing environment variables.
 
-- ## Prerequisites 📋
+## Prerequisites 📋
 Before running the bot, ensure you have:
 - Python 3.7 or higher installed.
 - A Telegram bot token from [BotFather](https://t.me/BotFather).
